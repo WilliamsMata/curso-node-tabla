@@ -1,6 +1,6 @@
 # Notas
 
-Este es mi primer programa en node
+Este es mi primer programa en node.
 
 ```
 Options:
